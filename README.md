@@ -21,6 +21,7 @@ I'm a passionate student at the Faculty of Computer Science with a deep interest
 --------------------------------------------------------------------
 # -Self learning : 
 - **Interests:** Network Pentesting, Web Pentesting
+--------------------------------------------------------------------
 
 My diverse skill set allows me to adapt and collaborate effectively, whether it's cracking the code of a network or crafting code for a new AI project.
 
