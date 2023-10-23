@@ -1,6 +1,6 @@
 <h1 align="center">👋 My  is Ahmed, Welcome To My Github Profile.</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20stack%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pentration%20testing%20student;Wait%20for%20more%20exploits&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
 <br/>
 <h3>🚀 About me</h3> 
@@ -50,17 +50,17 @@ Thank you for visiting my profile! Let's connect and drive innovation together!<
 <br />
 <br />
 
-<a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
+<a href="https://github.com/AhmedShabaan10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShabaan10&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
 </a>
 <br />
 <br />
 
-<a href="https://github.com/OmarAshraf1911">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
+<a href="https://github.com/AhmedShabaan10">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedShabaan10&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
-<a href="https://github.com/OmarAshraf1911">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
+<a href="https://github.com/AhmedShabaan10">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedShabaan10&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
 
 <br />
@@ -73,7 +73,7 @@ Thank you for visiting my profile! Let's connect and drive innovation together!<
 <a href="https://github.com/AhmedShabaan10">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
-![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShabaan10&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShabaan10&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
 </a>
 <br/>
@@ -89,34 +89,13 @@ Thank you for visiting my profile! Let's connect and drive innovation together!<
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/omar-ashraf-22a29725b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmedazaz.am@gmail.com)](mailto:ahmedazaz.am@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01030116272)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarashraf.hegab?mibextid=ZbWKwL)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=OmarAshraf1911&style=for-the-badge&color=blue" width="200" />
+ <img src="https://komarev.com/ghpvc/?username=AhmedShabaan10&style=for-the-badge&color=blue" width="200" />
 </div>
 
 
-
-
-
-
-
-### Hi there 👋
-
-
-**AhmedShabaan10/AhmedShabaan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
