@@ -17,7 +17,7 @@ I'm a passionate student at the Faculty of Computer Science with a deep interest
 - **Web Development:** HTML, CSS, PHP
 - **Frameworks:** Flutter
 - **IoT:** Arduino
-- **AI:** Machine Learning, NLP, Neural Networks
+- **AI:** Machine Learning, NLP, Neural Networks , Computer Vision
 --------------------------------------------------------------------
 # -Self learning : 
 - **Interests:** Network Pentesting, Web Pentesting
