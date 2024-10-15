@@ -8,7 +8,7 @@
 
 <h4>## Hello, I'm Ahmed! 👋
 
-I'm a passionate student at the Faculty of Computer Science with a deep interest in penetration testing, particularly in the realm of network security. My journey in academia has led me to explore the fascinating worlds of neural networks and Natural Language Processing (NLP) using Python, and I've completed hands-on projects that have only fueled my enthusiasm for machine learning and AI.
+I'm a graduate of the Faculty of Computer Science with a strong interest in backend development and web technologies. Throughout my academic journey, I explored various areas of technology, including penetration testing with a focus on network security. My hands-on experience with machine learning and AI projects, particularly in neural networks and Natural Language Processing (NLP) using Python, has further enriched my skills, but my passion now lies in building and optimizing web applications and backend systems.
 
 ### 🛠️ My Toolbox during my collage journey :
 # - knowledge from the collage content :
@@ -20,6 +20,7 @@ I'm a passionate student at the Faculty of Computer Science with a deep interest
 - **AI:** Machine Learning, NLP, Neural Networks , Computer Vision
 --------------------------------------------------------------------
 # -Self learning : 
+- PHP/laravel/Back-End Developer
 - **Interests:** Network Pentesting, Web Pentesting
 --------------------------------------------------------------------
 
