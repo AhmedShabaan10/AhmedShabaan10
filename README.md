@@ -72,7 +72,7 @@ Thank you for visiting my profile! Let's connect and drive innovation together!<
 <a href="https://github.com/AhmedShabaan10">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
-![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShabaan10&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+
   
 </a>
 <br/>
