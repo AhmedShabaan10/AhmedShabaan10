@@ -1,4 +1,4 @@
-<h1 align="center">👋 My  is Ahmed, Welcome To My Github Profile.</h1>
+<h1 align="center">👋 My name is Ahmed, Welcome To My Github Profile.</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Back-End%20Developer;Pentester&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
